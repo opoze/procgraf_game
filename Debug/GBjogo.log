@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (02_hellotriangle.vcxproj, GA1.vcxproj, GA2.vcxproj, GA3.vcxproj, GAjogo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\ico\desktop\poze\procgraf\sourcecode\external\include\nanogui\layout.h(423): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1958): note: consulte a declaração de '_snprintf'
+c:\users\ico\desktop\poze\procgraf\sourcecode\gbjogo\myglcanvas1.h(161): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+c:\users\ico\desktop\poze\procgraf\sourcecode\gbjogo\myglcanvas1.h(163): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+c:\users\ico\desktop\poze\procgraf\sourcecode\gbjogo\myglcanvas1.h(293): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\ico\desktop\poze\procgraf\sourcecode\gbjogo\myglcanvas1.h(300): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\ico\desktop\poze\procgraf\sourcecode\gbjogo\main.cpp(56): warning C4193: #pragma warning(pop): nenhum '#pragma warning(push)' correspondente
+  GBjogo.vcxproj -> C:\Users\ico\Desktop\poze\procGraf\sourcecode\Debug\GBjogo.exe
+  GBjogo.vcxproj -> C:\Users\ico\Desktop\poze\procGraf\sourcecode\Debug\GBjogo.pdb (Partial PDB)

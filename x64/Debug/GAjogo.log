@@ -1,0 +1,146 @@
+﻿gl_utils.obj : error LNK2019: símbolo externo indefinido _Init_thread_header referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2001: símbolos externos indefinidos _Init_thread_header
+gl_utils.obj : error LNK2019: símbolo externo indefinido _Init_thread_footer referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2001: símbolos externos indefinidos _Init_thread_footer
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp_glGetString referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp_glewInit referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwInit referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwTerminate referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+main.obj : error LNK2001: símbolos externos indefinidos glfwTerminate
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwGetVersionString referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwSetErrorCallback referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwWindowHint referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwCreateWindow referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwSetWindowTitle referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwSetWindowSizeCallback referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwGetTime referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2001: símbolos externos indefinidos glfwGetTime
+gl_utils.obj : error LNK2019: símbolo externo indefinido glfwMakeContextCurrent referenciado na função "bool __cdecl start_gl(void)" (?start_gl@@YA_NXZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp___acrt_iob_func referenciado na função "bool __cdecl gl_log(char const *,...)" (?gl_log@@YA_NPEBDZZ)
+main.obj : error LNK2001: símbolos externos indefinidos __imp___acrt_iob_func
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos __imp___acrt_iob_func
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp_fclose referenciado na função "bool __cdecl gl_log(char const *,...)" (?gl_log@@YA_NPEBDZZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp_ferror referenciado na função "bool __cdecl parse_file_into_str(char const *,char *,int)" (?parse_file_into_str@@YA_NPEBDPEADH@Z)
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp_fopen referenciado na função "bool __cdecl gl_log(char const *,...)" (?gl_log@@YA_NPEBDZZ)
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp_fputs referenciado na função "void __cdecl glfw_error_callback(int,char const *)" (?glfw_error_callback@@YAXHPEBD@Z)
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp_fread referenciado na função "bool __cdecl parse_file_into_str(char const *,char *,int)" (?parse_file_into_str@@YA_NPEBDPEADH@Z)
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp___stdio_common_vfprintf referenciado na função _vfprintf_l
+main.obj : error LNK2001: símbolos externos indefinidos __imp___stdio_common_vfprintf
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos __imp___stdio_common_vfprintf
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp___stdio_common_vsprintf referenciado na função _vsnprintf_l
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp__ctime64 referenciado na função ctime
+gl_utils.obj : error LNK2019: símbolo externo indefinido __imp__time64 referenciado na função time
+gl_utils.obj : error LNK2019: símbolo externo indefinido _RTC_CheckStackVars referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2001: símbolos externos indefinidos _RTC_CheckStackVars
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos _RTC_CheckStackVars
+ShapeGenerator.obj : error LNK2001: símbolos externos indefinidos _RTC_CheckStackVars
+gl_utils.obj : error LNK2001: símbolos externos indefinidos _RTC_InitBase
+main.obj : error LNK2001: símbolos externos indefinidos _RTC_InitBase
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos _RTC_InitBase
+ShapeGenerator.obj : error LNK2001: símbolos externos indefinidos _RTC_InitBase
+gl_utils.obj : error LNK2001: símbolos externos indefinidos _RTC_Shutdown
+main.obj : error LNK2001: símbolos externos indefinidos _RTC_Shutdown
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos _RTC_Shutdown
+ShapeGenerator.obj : error LNK2001: símbolos externos indefinidos _RTC_Shutdown
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __GSHandlerCheck
+main.obj : error LNK2001: símbolos externos indefinidos __GSHandlerCheck
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos __GSHandlerCheck
+gl_utils.obj : error LNK2019: símbolo externo indefinido __chkstk referenciado na função "bool __cdecl create_shader(char const *,unsigned int *,unsigned int)" (?create_shader@@YA_NPEBDPEAII@Z)
+main.obj : error LNK2001: símbolos externos indefinidos __chkstk
+gl_utils.obj : error LNK2019: símbolo externo indefinido __security_check_cookie referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2001: símbolos externos indefinidos __security_check_cookie
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos __security_check_cookie
+gl_utils.obj : error LNK2001: símbolos externos indefinidos _Init_thread_epoch
+main.obj : error LNK2001: símbolos externos indefinidos _Init_thread_epoch
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewAttachShader
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewAttachShader
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewCompileShader
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewCompileShader
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewCreateProgram
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewCreateProgram
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewCreateShader
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewCreateShader
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewDeleteShader
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewGetProgramInfoLog
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewGetProgramiv
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewGetProgramiv
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewGetShaderInfoLog
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewGetShaderiv
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewGetShaderiv
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewLinkProgram
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewLinkProgram
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewShaderSource
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewShaderSource
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp___glewValidateProgram
+gl_utils.obj : error LNK2001: símbolos externos indefinidos __imp_glewExperimental
+gl_utils.obj : error LNK2019: símbolo externo indefinido __security_cookie referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2001: símbolos externos indefinidos __security_cookie
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos __security_cookie
+gl_utils.obj : error LNK2001: símbolos externos indefinidos _fltused
+main.obj : error LNK2001: símbolos externos indefinidos _fltused
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos _fltused
+ShapeGenerator.obj : error LNK2001: símbolos externos indefinidos _fltused
+gl_utils.obj : error LNK2019: símbolo externo indefinido _tls_index referenciado na função "void __cdecl _update_fps_counter(struct GLFWwindow *)" (?_update_fps_counter@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2001: símbolos externos indefinidos _tls_index
+main.obj : error LNK2019: símbolo externo indefinido "void * __cdecl operator new[](unsigned __int64)" (??_U@YAPEAX_K@Z) referenciado na função "void __cdecl `dynamic initializer for 'aliens''(void)" (??__Ealiens@@YAXXZ)
+ShapeGenerator.obj : error LNK2001: símbolos externos indefinidos "void * __cdecl operator new[](unsigned __int64)" (??_U@YAPEAX_K@Z)
+main.obj : error LNK2019: símbolo externo indefinido "void __cdecl operator delete[](void *)" (??_V@YAXPEAX@Z) referenciado na função "public: void __cdecl ShapeData::cleanUp(void)" (?cleanUp@ShapeData@@QEAAXXZ)
+main.obj : error LNK2019: símbolo externo indefinido "void __cdecl operator delete[](void *,unsigned __int64)" (??_V@YAXPEAX_K@Z) referenciado na função "int `void __cdecl sendDataToGl(void)'::`1'::dtor$0" (?dtor$0@?0??sendDataToGl@@YAXXZ@4HA)
+main.obj : error LNK2019: símbolo externo indefinido __report_rangecheckfailure referenciado na função "void __cdecl colisionTest(void)" (?colisionTest@@YAXXZ)
+main.obj : error LNK2019: símbolo externo indefinido __imp_glClear referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido __imp_glDepthFunc referenciado na função "void __cdecl starGl(void)" (?starGl@@YAXXZ)
+main.obj : error LNK2019: símbolo externo indefinido __imp_glDrawElements referenciado na função "void __cdecl drawnAliens(float,int)" (?drawnAliens@@YAXMH@Z)
+main.obj : error LNK2019: símbolo externo indefinido __imp_glEnable referenciado na função "void __cdecl starGl(void)" (?starGl@@YAXXZ)
+main.obj : error LNK2019: símbolo externo indefinido __imp_glViewport referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido glfwWindowShouldClose referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido glfwSetWindowShouldClose referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido glfwPollEvents referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido glfwGetKey referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido glfwSetKeyCallback referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido glfwSwapBuffers referenciado na função main
+main.obj : error LNK2019: símbolo externo indefinido __imp__wassert referenciado na função "public: struct glm::vec<4,float,0> & __cdecl glm::mat<4,4,float,0>::operator[](int)" (??A?$mat@$03$03M$0A@@glm@@QEAAAEAU?$vec@$03M$0A@@1@H@Z)
+main.obj : error LNK2019: símbolo externo indefinido fabs referenciado na função fabsf
+maths_funcs.obj : error LNK2001: símbolos externos indefinidos fabs
+main.obj : error LNK2019: símbolo externo indefinido strlen referenciado na função "public: static unsigned __int64 __cdecl std::char_traits<char>::length(char const * const)" (?length@?$char_traits@D@std@@SA_KQEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) bool __cdecl std::uncaught_exception(void)" (__imp_?uncaught_exception@std@@YA_NXZ) referenciado na função "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::~sentry(void)" (??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ) referenciado na função "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::sentry(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ) referenciado na função "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::sentry(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ) referenciado na função "public: __cdecl std::basic_ostream<char,struct std::char_traits<char> >::sentry::~sentry(void)" (??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z) referenciado na função "void __cdecl colisionTest(void)" (?colisionTest@@YAXXZ)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@H@Z) referenciado na função "void __cdecl colisionTest(void)" (?colisionTest@@YAXXZ)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+main.obj : error LNK2019: símbolo externo indefinido "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ) referenciado na função "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@@Z)
+main.obj : error LNK2019: símbolo externo indefinido _RTC_UninitUse referenciado na função "void __cdecl shot(void)" (?shot@@YAXXZ)
+main.obj : error LNK2001: símbolos externos indefinidos __CxxFrameHandler3
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewBindBuffer
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewBufferData
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewGenBuffers
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewEnableVertexAttribArray
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewGetUniformLocation
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewUniformMatrix4fv
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewUseProgram
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewVertexAttribPointer
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewBindVertexArray
+main.obj : error LNK2001: símbolos externos indefinidos __imp___glewGenVertexArrays
+main.obj : error LNK2001: símbolos externos indefinidos "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido acos referenciado na função "struct versor __cdecl slerp(struct versor &,struct versor &,float)" (?slerp@@YA?AUversor@@AEAU1@0M@Z)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido atan2 referenciado na função "float __cdecl direction_to_heading(struct vec3)" (?direction_to_heading@@YAMUvec3@@@Z)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido cos referenciado na função "struct versor __cdecl quat_from_axis_rad(float,float,float,float)" (?quat_from_axis_rad@@YA?AUversor@@MMMM@Z)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido sin referenciado na função "struct versor __cdecl quat_from_axis_rad(float,float,float,float)" (?quat_from_axis_rad@@YA?AUversor@@MMMM@Z)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido sqrt referenciado na função "float __cdecl length(struct vec3 const &)" (?length@@YAMAEBUvec3@@@Z)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido tan referenciado na função "struct mat4 __cdecl perspective(float,float,float,float)" (?perspective@@YA?AUmat4@@MMMM@Z)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido __imp_cosf referenciado na função "struct vec3 __cdecl heading_to_direction(float)" (?heading_to_direction@@YA?AUvec3@@M@Z)
+maths_funcs.obj : error LNK2019: símbolo externo indefinido __imp_sinf referenciado na função "struct vec3 __cdecl heading_to_direction(float)" (?heading_to_direction@@YA?AUvec3@@M@Z)
+LINK : error LNK2001: símbolos externos indefinidos mainCRTStartup
+C:\Users\ico\Desktop\poze\procGraf\sourcecode\external\lib\glew.lib : warning LNK4272: o tipo de máquina da biblioteca 'X86' está em conflito com o tipo de máquina de destino 'x64'
+C:\Users\ico\Desktop\poze\procGraf\sourcecode\external\lib\glfw3.lib : warning LNK4272: o tipo de máquina da biblioteca 'X86' está em conflito com o tipo de máquina de destino 'x64'
+C:\Users\ico\Desktop\poze\procGraf\sourcecode\x64\Debug\GAjogo.exe : fatal error LNK1120: 104 externo não resolvidos

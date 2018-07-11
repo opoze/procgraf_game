@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (02_hellotriangle.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  GA1.vcxproj -> C:\Users\ico\Desktop\poze\procGraf\sourcecode\Debug\GA1.exe
+  GA1.vcxproj -> C:\Users\ico\Desktop\poze\procGraf\sourcecode\Debug\GA1.pdb (Partial PDB)

@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (02_hellotriangle.vcxproj, GA1.vcxproj, GA2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\ico\desktop\poze\procgraf\sourcecode\ga3\main.cpp(33): warning C4005: 'ONE_DEG_IN_RAD': redefinição de macro
+  c:\users\ico\desktop\poze\procgraf\sourcecode\ga3\maths_funcs.h(21): note: consulte a definição anterior de 'ONE_DEG_IN_RAD'
+c:\users\ico\desktop\poze\procgraf\sourcecode\ga3\main.cpp(125): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  GA3.vcxproj -> C:\Users\ico\Desktop\poze\procGraf\sourcecode\Debug\GA3.exe
+  GA3.vcxproj -> C:\Users\ico\Desktop\poze\procGraf\sourcecode\Debug\GA3.pdb (Partial PDB)
